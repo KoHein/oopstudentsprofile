@@ -1,0 +1,54 @@
+/*
+Purple Color
+light purple #9b59b6
+purple #8e44ad
+*/
+.studentsprofile hr {
+	border-bottom:1px solid #8e44ad;
+}
+.studentsprofile a {
+	color:#8e44ad;
+}
+.studentsprofile a:hover {
+	color:#9b59b6;
+}
+.studentsprofile header,
+.studentsprofile footer {
+	background:#9b59b6;
+}
+.studentsprofile .color-change {
+	color:#8e44ad;
+}
+.studentsprofile .label {
+	color:#8e44ad;
+}
+.studentsprofile .inside-icon .icon {
+    color:#9b59b6;
+}
+/* btn class*/
+.studentsprofile .btn {
+	background:#8e44ad;
+}
+.studentsprofile .btn:hover {
+	background:#73318f;
+}
+.studentsprofile .btn:active {
+	background:#8e44ad;
+}
+.studentsprofile .checkbox label i,
+.studentsprofile .radio label i {
+	border:2px solid #8e44ad;
+	color:#8e44ad;
+}
+.studentsprofile .radio label i:after{
+	background:#8e44ad;
+}
+.studentsprofile .select i {
+	color:#8e44ad;
+}
+.studentsprofile  .tooltip {
+	background: #9b59b6;
+}
+.studentsprofile  .tooltip::after {
+	border-bottom-color:#9b59b6;
+}

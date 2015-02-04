@@ -1,0 +1,55 @@
+﻿/*
+Black Color
+light black #353535
+black #252627
+*/
+.studentsprofile hr {
+	border-bottom:1px solid #353535;
+}
+.studentsprofile a {
+	color:#353535;
+}
+.studentsprofile a:hover {
+	color:#252627;
+}
+.studentsprofile header,
+.studentsprofile footer {
+	background:#252627;
+}
+.studentsprofile .color-change {
+	color:#353535;
+}
+.studentsprofile .label {
+	color:#353535;
+}
+.studentsprofile .inside-icon .icon {
+    color:#252627;
+}
+/* btn class*/
+.studentsprofile .btn {
+	background:#353535;
+}
+.studentsprofile .btn:hover {
+	background:#101010;
+}
+.studentsprofile .btn:active {
+	background:#353535;
+}
+
+.studentsprofile .checkbox label i,
+.studentsprofile .radio label i {
+	border:2px solid #353535;
+	color:#353535;
+}
+.studentsprofile .radio label i:after{
+	background:#353535;
+}
+.studentsprofile .select i {
+	color:#353535;
+}
+.studentsprofile  .tooltip {
+	background: #252627;
+}
+.studentsprofile  .tooltip::after {
+	border-bottom-color:#252627;
+}

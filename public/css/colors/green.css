@@ -1,0 +1,55 @@
+/*
+Green Color
+light green #1abc9c
+green #16a085
+*/
+.studentsprofile hr {
+	border-bottom:1px solid #16a085;
+}
+.studentsprofile a {
+	color:#16a085;
+}
+.studentsprofile a:hover {
+	color:#1abc9c;
+}
+.studentsprofile header,
+.studentsprofile footer {
+	background:#1abc9c;
+}
+.studentsprofile .color-change {
+	color:#16a085;
+}
+.studentsprofile .label {
+	color:#16a085;
+}
+.studentsprofile .inside-icon .icon {
+    color:#1abc9c;
+}
+/* btn class*/
+.studentsprofile .btn {
+	background:#16a085;
+}
+.studentsprofile .btn:hover {
+	background:#0b8d73;
+}
+.studentsprofile .btn:active {
+	background:#16a085;
+}
+
+.studentsprofile .checkbox input + label i,
+.studentsprofile .radio input + label i {
+	border:2px solid #16a085;
+	color:#16a085;
+}
+.studentsprofile .radio label i:after{
+	background:#16a085;
+}
+.studentsprofile .select i {
+	color:#16a085;
+}
+.studentsprofile  .tooltip {
+	background: #1abc9c;
+}
+.studentsprofile  .tooltip::after {
+	border-bottom-color:#1abc9c;
+}

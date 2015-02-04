@@ -1,0 +1,55 @@
+/*
+Blue Color
+light blue #3498db
+blue #2980b9
+*/
+.studentsprofile hr {
+	border-bottom:1px solid #2980b9;
+}
+.studentsprofile a {
+	color:#2980b9;
+}
+.studentsprofile a:hover {
+	color:#3498db;
+}
+.studentsprofile header,
+.studentsprofile footer {
+	background:#3498db;
+}
+.studentsprofile .color-change {
+	color:#2980b9;
+}
+.studentsprofile .label {
+	color:#2980b9;
+}
+.studentsprofile .inside-icon .icon {
+    color:#3498db;
+}
+/* btn class*/
+.studentsprofile .btn {
+	background:#2980b9;
+}
+.studentsprofile .btn:hover {
+	background:#1a679a;
+}
+.studentsprofile .btn:active {
+	background:#2980b9;
+}
+
+.studentsprofile .checkbox label i,
+.studentsprofile .radio label i {
+	border:2px solid #2980b9;
+	color:#2980b9;
+}
+.studentsprofile .radio label i:after{
+	background:#2980b9;
+}
+.studentsprofile .select i {
+	color:#2980b9;
+}
+.studentsprofile  .tooltip {
+	background: #3498db;
+}
+.studentsprofile  .tooltip::after {
+	border-bottom-color:#3498db;
+}

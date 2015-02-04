@@ -1,0 +1,17 @@
+{
+	"autoload":	{
+		"psr-4":	{
+			"student\\" : "student/src"
+			},
+			"classmap" : [
+			"app/controller",
+			"student/library",
+			"student/Provider"
+		],
+			"files": [
+			"student/helpers.php"
+		]
+
+	}
+
+}

@@ -1,0 +1,54 @@
+/*
+Darkblue Color
+darkblue #34495e
+midnight blue #2c3e50
+*/
+.studentsprofile hr {
+	border-bottom:1px solid #2c3e50;
+}
+.studentsprofile a {
+	color:#2c3e50;
+}
+.studentsprofile a:hover {
+	color:#34495e;
+}
+.studentsprofile header,
+.studentsprofile footer {
+	background:#34495e;
+}
+.studentsprofile .color-change {
+	color:#2c3e50;
+}
+.studentsprofile .label {
+	color:#2c3e50;
+}
+.studentsprofile .inside-icon .icon {
+    color:#34495e;
+}
+/* btn class*/
+.studentsprofile .btn {
+	background:#2c3e50;
+}
+.studentsprofile .btn:hover {
+	background:#1a2b3d;
+}
+.studentsprofile .btn:active {
+	background:#2c3e50;
+}
+.studentsprofile .checkbox label i,
+.studentsprofile .radio label i {
+	border:2px solid #2c3e50;
+	color:#2c3e50;
+}
+.studentsprofile .radio label i:after{
+	background:#2c3e50;
+}
+.studentsprofile .select i {
+	color:#2c3e50;
+}
+.studentsprofile  .tooltip {
+	background: #34495e;
+}
+.studentsprofile  .tooltip::after {
+	border-bottom-color:#34495e;
+}

@@ -1,0 +1,78 @@
+body {
+	background:#34495e;
+}
+.studentsprofile-container {
+	width:600px;
+	margin:100px auto;
+	min-height:400px;
+}
+.studentsprofile-container.small{
+	width:480px;
+	margin:100px auto;
+}
+.studentsprofile-container.large{
+	width:720px;
+	margin:100px auto;
+}
+.colors-container {
+	position:absolute;
+	top:10px;
+	left:20px;
+	padding:5px 10px;
+	background: #ecf0f1;
+}
+.colors li {
+	display:inline-block;
+	width:32px;
+	height:32px;
+	margin-right:8px;
+	cursor:pointer;
+}
+.colors li:nth-child(1) {
+	background:#f1c40f;
+}
+.colors li:nth-child(2) {
+	background:#e74c3c;
+}
+.colors li:nth-child(3) {
+	background:#9b59b6;
+}
+.colors li:nth-child(4) {
+	background:#e67e22;
+}
+.colors li:nth-child(5) {
+	background:#bdc3c7;
+}
+.colors li:nth-child(6) {
+	background:#1abc9c;
+}
+.colors li:nth-child(7) {
+	background:#aeaeae;
+}
+.colors li:nth-child(8) {
+	background:#34495e;
+}
+.colors li:nth-child(9) {
+	background: #3498db;
+}
+.colors li:nth-child(10) {
+	background: #353535;
+}
+@media (max-width:780px){
+	.studentsprofile-container.large{
+		width:100%;
+		margin:70px auto;
+	}
+}
+@media (max-width: 600px) {
+	.studentsprofile-container {
+		width:100%;
+	}
+
+}
+@media (max-width: 480px) {
+
+	.studentsprofile-container.small{
+		width:100%;
+	}
+}

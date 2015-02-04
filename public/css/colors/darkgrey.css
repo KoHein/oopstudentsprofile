@@ -1,0 +1,55 @@
+﻿/*
+DarkGrey Color
+light grey #aeaeae
+grey #999
+*/
+.studentsprofile hr {
+	border-bottom:1px solid #aeaeae;
+}
+.studentsprofile a {
+	color:#aeaeae;
+}
+.studentsprofile a:hover {
+	color:#999;
+}
+.studentsprofile header,
+.studentsprofile footer {
+	background:#999;
+}
+.studentsprofile .color-change {
+	color:#aeaeae;
+}
+.studentsprofile .label {
+	color:#aeaeae;
+}
+.studentsprofile .inside-icon .icon {
+    color:#999;
+}
+/* btn class*/
+.studentsprofile .btn {
+	background:#aeaeae;
+}
+.studentsprofile .btn:hover {
+	background:#707677;
+}
+.studentsprofile .btn:active {
+	background:#aeaeae;
+}
+
+.studentsprofile .checkbox label i,
+.studentsprofile .radio label i {
+	border:2px solid #aeaeae;
+	color:#aeaeae;
+}
+.studentsprofile .radio label i:after{
+	background:#aeaeae;
+}
+.studentsprofile .select i {
+	color:#aeaeae;
+}
+.studentsprofile  .tooltip {
+	background: #999;
+}
+.studentsprofile  .tooltip::after {
+	border-bottom-color:#999;
+}

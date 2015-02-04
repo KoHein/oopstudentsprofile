@@ -1,0 +1,53 @@
+/*
+Orange Color
+light orange #e67e22
+orange #d35400
+*/
+.studentsprofile hr {
+	border-bottom:1px solid #d35400;
+}
+.studentsprofile a {
+	color:#d35400;
+}
+.studentsprofile a:hover {
+	color:#e67e22;
+}
+.studentsprofile header,
+.studentsprofile footer {
+	background:#e67e22;
+}
+.studentsprofile .color-change {
+	color:#d35400;
+}
+.studentsprofile .label {
+	color:#d35400;
+}
+.studentsprofile .inside-icon .icon {
+    color:#e67e22;
+}
+/* btn class*/
+.studentsprofile .btn {
+	background:#d35400;
+}
+.studentsprofile .btn:hover {
+	background:#b74e08;
+}
+.studentsprofile .btn:active {
+	background:#d35400;
+}
+
+.studentsprofile .checkbox input[type="checkbox"] + label i,
+.studentsprofile .radio-inline input[type="radio"] + label i,
+.studentsprofile .radio-block input[type="radio"] + label i {
+	border:2px solid #d35400;
+	color:#d35400;
+}
+.studentsprofile .select i {
+	color:#d35400;
+}
+.studentsprofile  .tooltip {
+	background: #e67e22;
+}
+.studentsprofile  .tooltip::after {
+	border-bottom-color:#e67e22;
+}

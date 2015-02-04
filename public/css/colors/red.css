@@ -1,0 +1,54 @@
+/*
+Red Color
+light red #e74c3c
+red #c0392b
+*/
+.studentsprofile hr {
+	border-bottom:1px solid #c0392b;
+}
+.studentsprofile a {
+	color:#c0392b;
+}
+.studentsprofile a:hover {
+	color:#e74c3c;
+}
+.studentsprofile header,
+.studentsprofile footer {
+	background:#e74c3c;
+}
+.studentsprofile .color-change {
+	color:#c0392b;
+}
+.studentsprofile .label {
+	color:#c0392b;
+}
+.studentsprofile .inside-icon .icon {
+    color:#e74c3c;
+}
+/* btn class*/
+.studentsprofile .btn {
+	background:#c0392b;
+}
+.studentsprofile .btn:hover {
+	background:#9b271b;
+}
+.studentsprofile .btn:active {
+	background:#c0392b;
+}
+.studentsprofile .checkbox label i,
+.studentsprofile .radio label i {
+	border:2px solid #c0392b;
+	color:#c0392b;
+}
+.studentsprofile .radio label i:after{
+	background:#c0392b;
+}
+.studentsprofile .select i {
+	color:#c0392b;
+}
+.studentsprofile  .tooltip {
+	background: #e74c3c;
+}
+.studentsprofile  .tooltip::after {
+	border-bottom-color:#e74c3c;
+}

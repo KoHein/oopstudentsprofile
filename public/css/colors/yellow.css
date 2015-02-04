@@ -1,0 +1,56 @@
+/*
+Yellow Color
+light yellow #f1c40f
+yellow #f39c12
+*/
+.studentsprofile hr {
+	border-bottom:1px solid #f39c12;
+}
+.studentsprofile a {
+	color:#f39c12;
+}
+.studentsprofile a:hover {
+	color:#f1c40f;
+}
+.studentsprofile header,
+.studentsprofile footer {
+	background:#f1c40f;
+}
+.studentsprofile .color-change {
+	color:#f39c12;
+}
+.studentsprofile .label {
+	color:#f39c12;
+}
+.studentsprofile .inside-icon .icon {
+    color:#f1c40f;
+}
+/* btn class*/
+.studentsprofile .btn {
+	background:#f39c12;
+}
+.studentsprofile .btn:hover {
+	background:#de8b09;
+}
+.studentsprofile .btn:active {
+	background:#f39c12;
+}
+
+.studentsprofile .checkbox label i,
+.studentsprofile .radio label i {
+	border:2px solid #f39c12;
+	color:#f39c12;
+}
+.studentsprofile .radio label i:after{
+	background:#f39c12;
+}
+
+.studentsprofile .select i {
+	color:#f39c12;
+}
+.studentsprofile  .tooltip {
+	background: #f1c40f;
+}
+.studentsprofile  .tooltip::after {
+	border-bottom-color:#f1c40f;
+}
