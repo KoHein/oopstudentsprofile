@@ -5,7 +5,7 @@ Search for it [Visit GitHub!]()
 
 ## Project Contributers
 * Ko Hein
-* Tun Paing Soe
+* Tun Pai Soe
 * Hnin Nan Dar Myint
 * Phyo Wai Lin
 
